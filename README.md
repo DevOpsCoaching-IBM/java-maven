@@ -1,4 +1,4 @@
-# A Java/Maven/JUnit HelloWorld example[Pr 6.1]
+# A Java/Maven/JUnit HelloWorld example[Pr 6.2]
 
 A „Hello World!” sample written in Java using Maven for the build, that showcases a few very simple tests.
 
